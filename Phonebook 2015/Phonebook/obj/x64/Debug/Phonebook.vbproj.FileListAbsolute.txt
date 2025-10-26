@@ -1,0 +1,15 @@
+E:\Software_Project\VB.NET\Phonebook\Phonebook\bin\x64\Debug\Phonebook.exe.config
+D:\VB.NET\Phonebook 2015\Phonebook\bin\x64\Debug\Database.mdb
+D:\VB.NET\Phonebook 2015\Phonebook\bin\x64\Debug\Phonebook.exe.config
+D:\VB.NET\Phonebook 2015\Phonebook\bin\x64\Debug\Phonebook.exe
+D:\VB.NET\Phonebook 2015\Phonebook\bin\x64\Debug\Phonebook.pdb
+D:\VB.NET\Phonebook 2015\Phonebook\bin\x64\Debug\Phonebook.xml
+D:\VB.NET\Phonebook 2015\Phonebook\obj\x64\Debug\Phonebook.vbproj.AssemblyReference.cache
+D:\VB.NET\Phonebook 2015\Phonebook\obj\x64\Debug\Phonebook.Form1.resources
+D:\VB.NET\Phonebook 2015\Phonebook\obj\x64\Debug\Phonebook.Form2.resources
+D:\VB.NET\Phonebook 2015\Phonebook\obj\x64\Debug\Phonebook.Resources.resources
+D:\VB.NET\Phonebook 2015\Phonebook\obj\x64\Debug\Phonebook.vbproj.GenerateResource.cache
+D:\VB.NET\Phonebook 2015\Phonebook\obj\x64\Debug\Phonebook.vbproj.CoreCompileInputs.cache
+D:\VB.NET\Phonebook 2015\Phonebook\obj\x64\Debug\Phonebook.exe
+D:\VB.NET\Phonebook 2015\Phonebook\obj\x64\Debug\Phonebook.xml
+D:\VB.NET\Phonebook 2015\Phonebook\obj\x64\Debug\Phonebook.pdb
