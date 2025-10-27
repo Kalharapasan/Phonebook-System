@@ -64,6 +64,12 @@ Common fields include:
 | `Email`     | Email address (if applicable) |
 | `Address`   | Optional address field |
 
+
+------
+## 🧑 Login
+User Name :root1
+password :root 1
+
 ---
 
 ## 🧑‍💻 Developer Notes
@@ -75,11 +81,9 @@ Common fields include:
 ---
 
 ## 📄 License
+	[License](./LICENSE.md): Proprietary – Permission Required
 
-This project is provided for educational and demonstration purposes.  
-You may modify and distribute it freely with attribution.
 
----
 
-**Author:** Unknown (2015 release)  
-**Updated README:** 2025 by ChatGPT
+
+
