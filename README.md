@@ -2,6 +2,8 @@
 
 **Phonebook 2015** is a simple desktop application built with **Visual Basic .NET** for managing and storing contact information.  
 It uses a local **Microsoft Access (MDB)** database to save records such as names, phone numbers, and other contact details.
+<img width="1186" height="343" alt="Capture" src="https://github.com/user-attachments/assets/21e94ffc-e6c2-426c-9869-b9d17cc0846b" />
+
 
 ---
 
