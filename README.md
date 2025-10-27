@@ -81,7 +81,8 @@ password :root 1
 ---
 
 ## 📄 License
-	[License](./LICENSE.md): Proprietary – Permission Required
+
+	📄 [License](./LICENSE.md): Proprietary – Permission Required
 
 
 
